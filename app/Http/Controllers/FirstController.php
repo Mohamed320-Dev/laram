@@ -10,6 +10,6 @@ class FirstController extends Controller
 
     public function index() {
         $languages = ["PHP", "LARAVEL", "JS", "MYSQL"];
-        return view('First', compact('languages'));
+        return view('index', compact('languages'));
     }
 }

@@ -6,12 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <footer>
-        <ul>
-            <li>home</li>
-            <li>about</li>
-            <li>contact</li>
-        </ul>
-    </footer>
+    <h1>Hello , my name is mohamed elmahdi</h1>
 </body>
 </html>
